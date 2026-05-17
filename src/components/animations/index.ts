@@ -1,4 +1,4 @@
-export { FadeIn } from "./Fadein";
+
 // export { SlideIn }         from "./SlideIn";
 // export { ScaleUp }         from "./ScaleUp";
 // export { StaggerChildren } from "./StaggerChildren";
