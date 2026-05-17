@@ -31,6 +31,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+body {
+  font-family: var(--font-roboto), sans-serif;
+}
+
 * {
   box-sizing: border-box;
   padding: 0;
